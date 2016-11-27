@@ -1,0 +1,39 @@
+{
+  "name": "tiny-slider",
+  "version": "1.0.0",
+  "description": "Very simple and slim slider",
+  "main": "tinyslider.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FabioAnsaldi/tiny-slider.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "Slider",
+    "Slim",
+    "Tiny",
+    "Small"
+  ],
+  "author": "Fabio Ansaldi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FabioAnsaldi/tiny-slider/issues"
+  },
+  "homepage": "https://github.com/FabioAnsaldi/tiny-slider#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-htmlmin": "^2.0.0",
+    "gulp-if": "^2.0.1",
+    "gulp-inject": "^4.1.0",
+    "gulp-jshint": "^2.0.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.3.2",
+    "gulp-uglify": "^1.5.4",
+    "jshint": "^2.9.2",
+    "yargs": "^4.8.1"
+  }
+}
